@@ -1,6 +1,6 @@
 # Rocket Launch Simulator & Optimizer
 
-A Python physics simulator that models the flight of an air-powered rocket, predicting trajectory, stability, and range — paired with a Monte Carlo optimizer that searches thousands of design configurations to find the best rocket setup for a given goal (e.g., max range, lowest cost, highest speed).
+A Python physics simulator that models the flight of an air-powered rocket, predicting trajectory, stability, and range, paired with a Monte Carlo optimizer that searches thousands of design configurations to find the best rocket setup for a given goal (e.g., max range, lowest cost, highest speed).
 
 Built as a follow-up to a physical air-powered rocket launcher project, to predict and optimize performance computationally rather than through trial and error alone.
 
