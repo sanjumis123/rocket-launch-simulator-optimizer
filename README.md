@@ -4,7 +4,7 @@ A Python physics simulator that models the flight of an air-powered rocket, pred
 
 Built as a follow-up to a physical air-powered rocket launcher project, to predict and optimize performance computationally rather than through trial and error alone.
 
-![Optimzer Results + Trajectory Plot](Image/image.png)
+![Optimzer Results + Trajectory Plot](opt_trajectory.png)
 
 ## Features
 
